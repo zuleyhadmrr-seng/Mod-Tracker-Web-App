@@ -1,13 +1,29 @@
-# Mood Tracker App
+🕹️ Game Mod Tracker with Flask
+This project is a centralized web application designed to track and manage various game modifications (mods). It helps gamers keep their mod lists organized and up to date.
 
-A personal well-being application designed to help users log their daily moods and keep a history of their emotional states.
+🎯 Project Overview
+Developed with Flask, this application serves as a personal dashboard for gamers to log their favorite mods, track version updates, and manage installation statuses for different games.
 
-## 🚀 Features
-* **Mood Logging:** Create, Read, Update, and Delete (CRUD) daily mood entries.
-* **User Accounts:** Personal profiles for secure data tracking.
-* **History View:** A dedicated dashboard to review past logs.
+🛠️ Tech Stack
+Framework: Flask (Python)
+Frontend: Jinja2 Templates, CSS3, Bootstrap
+Database: SQLite / SQLAlchemy
+Tools: Flask-WTF for forms, Werkzeug for security
 
-## 🛠️ Tech Stack
-* **Backend:** Python (Django/Flask)
-* **Frontend:** HTML5, CSS3, Bootstrap
-* **Database:** SQLite
+⚙️ Core Features
+Mod Inventory: Add and categorize mods by game title.
+Status Tracking: Mark mods as "Installed," "Update Required," or "Testing."
+Link Management: Store direct download links and documentation for each mod.
+Search & Filter: Easily find specific mods within a large collection.
+
+👥 Collaborative Work
+This project was a group effort. I specifically focused on:
+Setting up the Flask application structure.
+Designing the SQLite database schema for mod management.
+Developing the search and filtering functionality.
+
+Team Members
+* Züleyha DEMİR
+* Beyza Nur ULUKUŞ
+* Pınar Erva GÜNDAĞ
+* Aslı Sudenur ŞAHİN
